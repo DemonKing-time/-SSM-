@@ -6,7 +6,7 @@
 数据库：Mysql
 Tomcat版本为9
 编写工具：eclipse
-用到的技术：SSM框架+Jsp+html+Jquery
+用到的技术：SSM框架+Jsp+html+css+javascript
 
 
 
